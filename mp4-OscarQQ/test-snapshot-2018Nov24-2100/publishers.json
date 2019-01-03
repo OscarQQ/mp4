@@ -1,0 +1,45 @@
+{
+  "table_name": "publishers",
+  "table": [
+    {
+      "isbn": "0034521",
+      "publisher": "penguin classics",
+      "year": "1985"
+    },
+    {
+      "isbn": "1025438",
+      "publisher": "knickerbocker classics",
+      "year": "2000"
+    },
+    {
+      "isbn": "6542890",
+      "publisher": "penguin books",
+      "year": "1965"
+    },
+    {
+      "isbn": "8012678",
+      "publisher": "penguin classics",
+      "year": "1984"
+    },
+    {
+      "isbn": "6740987",
+      "publisher": "wordsworth editions",
+      "year": "1992"
+    },
+    {
+      "isbn": "2522309",
+      "publisher": "norton critical editions",
+      "year": "1995"
+    },
+    {
+      "isbn": "6903322",
+      "publisher": "wildside press",
+      "year": "1948"
+    },
+    {
+      "isbn": "5754320",
+      "publisher": "barnes and noble classics",
+      "year": "1998"
+    }
+  ]
+}

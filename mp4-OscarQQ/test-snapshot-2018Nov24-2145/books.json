@@ -1,0 +1,45 @@
+{
+  "table_name": "books",
+  "table": [
+    {
+      "isbn": "0034521",
+      "book_title": "pride and prejudice",
+      "author": "jane austen"
+    },
+    {
+      "isbn": "1025438",
+      "book_title": "to kill a mockingbird",
+      "author": "harper lee"
+    },
+    {
+      "isbn": "6542890",
+      "book_title": "the great gatsby",
+      "author": "f. scott fitzgerald"
+    },
+    {
+      "isbn": "8012678",
+      "book_title": "1984",
+      "author": "george orwell"
+    },
+    {
+      "isbn": "6740987",
+      "book_title": "the catcher in the rye",
+      "author": "j. d. salinger"
+    },
+    {
+      "isbn": "2522309",
+      "book_title": "lord of the flies",
+      "author": "william golding"
+    },
+    {
+      "isbn": "6903322",
+      "book_title": "frankenstein",
+      "author": "mary shelley"
+    },
+    {
+      "isbn": "5754320",
+      "book_title": "gone with the wind",
+      "author": "margaret mitchell"
+    }
+  ]
+}
